@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson.tasks.Mailer_-DescriptorImpl plugin="mailer@1.20">
+  <smtpAuthPassword>{AQAAABAAAAAQq3HBrjpCffmVC6SSAM/McLPf4iqmxoelH6QSBcnQsqM=}</smtpAuthPassword>
+  <replyToAddress>dpriya@ztech.io</replyToAddress>
+  <useSsl>false</useSsl>
+  <charset>UTF-8</charset>
+</hudson.tasks.Mailer_-DescriptorImpl>

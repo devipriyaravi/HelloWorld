@@ -1,0 +1,20 @@
+Started by user [8mha:////4NEvSQd5Z6l4OoXGM3vJJgQAF9OWFrLvkhG7vnGzPqg1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/workspace/trial1
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/devipriyaravi/WASdemo.git # timeout=10
+Fetching upstream changes from https://github.com/devipriyaravi/WASdemo.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/devipriyaravi/WASdemo.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 2ed7a358db592925d110c801819cf534adbd57f6 (refs/remotes/origin/master)
+Commit message: "Update was.sh"
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 2ed7a358db592925d110c801819cf534adbd57f6
+ > git rev-list 2ed7a358db592925d110c801819cf534adbd57f6 # timeout=10
+[trial1] $ /bin/sh -xe /tmp/jenkins7533678840659049976.sh
++ ./was.sh
+/tmp/jenkins7533678840659049976.sh: line 2: ./was.sh: Permission denied
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: nghia
+Build-Jdk: 1.7.0-google-v6
+Extension-Name: google-metadata-plugin
+Specification-Title: This plugin provides a basic framework for steps 
+ in a build’s lifecycle to attach JSON-serializable metadata to a bu
+ ild (as an invisible action).
+Implementation-Title: google-metadata-plugin
+Implementation-Version: 0.2
+Group-Id: org.jenkins-ci.plugins
+Short-Name: google-metadata-plugin
+Long-Name: Google Metadata plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Google+Metadata+Plugin
+Plugin-Version: 0.2
+Hudson-Version: 1.521
+Jenkins-Version: 1.521
+Plugin-Developers: Matt Moore:mattmoor:,Nghia Tran:tcnghia:
+Support-Dynamic-Loading: true
+

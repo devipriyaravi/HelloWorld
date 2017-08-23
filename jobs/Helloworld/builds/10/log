@@ -1,0 +1,29 @@
+Started by user [8mha:////4NEvSQd5Z6l4OoXGM3vJJgQAF9OWFrLvkhG7vnGzPqg1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/workspace/Helloworld
+Cloning the remote Git repository
+Cloning repository https://github.com/devipriyaravi/HelloWorld.git
+ > git init /var/lib/jenkins/workspace/Helloworld # timeout=10
+Fetching upstream changes from https://github.com/devipriyaravi/HelloWorld.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/devipriyaravi/HelloWorld.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/devipriyaravi/HelloWorld.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/devipriyaravi/HelloWorld.git # timeout=10
+Fetching upstream changes from https://github.com/devipriyaravi/HelloWorld.git
+ > git fetch --tags --progress https://github.com/devipriyaravi/HelloWorld.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 835d34d1ed0fb8eec220a7c31f8a45e6d095870d (refs/remotes/origin/master)
+Commit message: "added helloworld prgm"
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 835d34d1ed0fb8eec220a7c31f8a45e6d095870d
+First time build. Skipping changelog.
+[Helloworld] $ /bin/sh -xe /tmp/jenkins347610819367008882.sh
++ cd /usr/games
++ javac Helloworld.java
+Helloworld.java:1: error while writing Helloworld: Helloworld.class (Permission denied)
+public class Helloworld
+       ^
+1 error
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

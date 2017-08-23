@@ -1,0 +1,24 @@
+Started by user [8mha:////4NEvSQd5Z6l4OoXGM3vJJgQAF9OWFrLvkhG7vnGzPqg1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/workspace/freestyle
+Cloning the remote Git repository
+Cloning repository https://github.com/devipriyaravi/WASdemo.git
+ > git init /var/lib/jenkins/workspace/freestyle # timeout=10
+Fetching upstream changes from https://github.com/devipriyaravi/WASdemo.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/devipriyaravi/WASdemo.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/devipriyaravi/WASdemo.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/devipriyaravi/WASdemo.git # timeout=10
+Fetching upstream changes from https://github.com/devipriyaravi/WASdemo.git
+ > git fetch --tags --progress https://github.com/devipriyaravi/WASdemo.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision c3103efa1929688e856acfceab33fda2d6c06344 (refs/remotes/origin/master)
+Commit message: "Update was.sh"
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f c3103efa1929688e856acfceab33fda2d6c06344
+First time build. Skipping changelog.
+[freestyle] $ /bin/sh -xe /tmp/jenkins2315896884677307393.sh
++ echo hi
+hi
+Finished: SUCCESS

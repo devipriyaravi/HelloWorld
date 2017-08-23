@@ -1,0 +1,46 @@
+Started by user [8mha:////4NEvSQd5Z6l4OoXGM3vJJgQAF9OWFrLvkhG7vnGzPqg1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/workspace/dp_test
+Cloning the remote Git repository
+Cloning repository https://github.com/devipriyaravi/WASdemo.git
+ > git init /var/lib/jenkins/workspace/dp_test # timeout=10
+Fetching upstream changes from https://github.com/devipriyaravi/WASdemo.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/devipriyaravi/WASdemo.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/devipriyaravi/WASdemo.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/devipriyaravi/WASdemo.git # timeout=10
+Fetching upstream changes from https://github.com/devipriyaravi/WASdemo.git
+ > git fetch --tags --progress https://github.com/devipriyaravi/WASdemo.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision c3103efa1929688e856acfceab33fda2d6c06344 (refs/remotes/origin/master)
+Commit message: "Update was.sh"
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f c3103efa1929688e856acfceab33fda2d6c06344
+First time build. Skipping changelog.
+[dp_test] $ mvn compile
+FATAL: command execution failed
+[8mha:////4IMVcXtpBUtgUNjcjetpIqvh53+yJ9e/mPofT/ShqOVTAAAAVx+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0mV3NWzufebKBsTA0NFEYMUmgZnCA1SyAABjCCFBQC2xNaiYAAAAA==[0mjava.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method)
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:247)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+Caused: java.io.IOException: Cannot run program "mvn" (in directory "/var/lib/jenkins/workspace/dp_test"): error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at hudson.Proc$LocalProc.<init>(Proc.java:245)
+	at hudson.Proc$LocalProc.<init>(Proc.java:214)
+	at hudson.Launcher$LocalLauncher.launch(Launcher.java:850)
+	at hudson.Launcher$ProcStarter.start(Launcher.java:384)
+	at hudson.Launcher$ProcStarter.join(Launcher.java:395)
+	at hudson.tasks.Maven.perform(Maven.java:367)
+	at hudson.tasks.BuildStepMonitor$1.perform(BuildStepMonitor.java:20)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.perform(AbstractBuild.java:735)
+	at hudson.model.Build$BuildExecution.build(Build.java:206)
+	at hudson.model.Build$BuildExecution.doRun(Build.java:163)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.run(AbstractBuild.java:490)
+	at hudson.model.Run.execute(Run.java:1735)
+	at hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)
+	at hudson.model.ResourceController.execute(ResourceController.java:97)
+	at hudson.model.Executor.run(Executor.java:405)
+Build step 'Invoke top-level Maven targets' marked build as failure
+Finished: FAILURE

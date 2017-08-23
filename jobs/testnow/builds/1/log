@@ -1,0 +1,25 @@
+Started by user [8mha:////4NEvSQd5Z6l4OoXGM3vJJgQAF9OWFrLvkhG7vnGzPqg1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/workspace/testnow
+Cloning the remote Git repository
+Cloning repository https://github.com/devipriyaravi/WASdemo.git
+ > git init /var/lib/jenkins/workspace/testnow # timeout=10
+Fetching upstream changes from https://github.com/devipriyaravi/WASdemo.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/devipriyaravi/WASdemo.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/devipriyaravi/WASdemo.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/devipriyaravi/WASdemo.git # timeout=10
+Fetching upstream changes from https://github.com/devipriyaravi/WASdemo.git
+ > git fetch --tags --progress https://github.com/devipriyaravi/WASdemo.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 8be9b8bceb7c2f9f38ab57c46f8144f8648697a8 (refs/remotes/origin/master)
+Commit message: "Update was.sh"
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 8be9b8bceb7c2f9f38ab57c46f8144f8648697a8
+First time build. Skipping changelog.
+[testnow] $ /bin/sh -xe /tmp/jenkins3569357466215196381.sh
++ ./was.sh
+/tmp/jenkins3569357466215196381.sh: line 2: ./was.sh: Permission denied
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

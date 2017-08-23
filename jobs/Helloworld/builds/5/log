@@ -1,0 +1,8 @@
+Started by user [8mha:////4NEvSQd5Z6l4OoXGM3vJJgQAF9OWFrLvkhG7vnGzPqg1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/workspace/Helloworld
+[Helloworld] $ /bin/sh -xe /tmp/jenkins5624122695402575168.sh
++ cd /lib/jenkins
++ javac Helloworld.java
+/tmp/jenkins5624122695402575168.sh: line 4: javac: command not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

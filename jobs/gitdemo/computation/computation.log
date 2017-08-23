@@ -1,0 +1,128 @@
+Started
+[Mon Aug 21 17:21:36 IST 2017] Starting organization scan...
+[Mon Aug 21 17:21:36 IST 2017] Updating actions...
+Looking up details of gitdemo...
+[8mha:////4G0dU5jMeCNUHaSaXtiEWMaD1IeE+qbcGmcBYnF2T6buAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcyyIXZQAPt+TFjgAAAA==[0mGitHub API Usage: Current quota has 58 remaining (5 under budget). Next quota of 60 in 59 min
+Organization URL: [8mha:////4D8ZEoqKVdXwBITVFLp8TAyish4LL+CEtAumFI7snK8wAAAAlh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMiQKgGqLikpKLbS10/PLMkoTQLqygUxU1Jz8wFFpF4YnwAAAA==[0mhttps://github.com/gitdemo
+[Mon Aug 21 17:21:37 IST 2017] Consulting GitHub Organization
+[8mha:////4Faz9rSEtBeksHiks8VtY3IfkT4w5bL4iBq7dor8yBMnAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcyyI3MwBmMQ+ajgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+[8mha:////4Faz9rSEtBeksHiks8VtY3IfkT4w5bL4iBq7dor8yBMnAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcyyI3MwBmMQ+ajgAAAA==[0mGitHub API Usage: Current quota has 57 remaining (4 under budget). Next quota of 60 in 59 min
+Looking up repositories of user gitdemo
+
+[8mha:////4LwDNIMGlXDi98PU4VwlC7NgQZ9xu1ZwSkq8NcpkBpQ7AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcyyIfZwBfXI9AjgAAAA==[0mGitHub API Usage: Current quota has 55 remaining (2 under budget). Next quota of 60 in 59 min
+[8mha:////4N48Ev7Op30syUHIPyJU64nXGE+XGdn6YV4uFsbULGwlAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcyyLfOgAPIfwBjgAAAA==[0mGitHub API Usage: Current quota has 54 remaining (1 under budget). Next quota of 60 in 59 min
+Proposing logster
+[8mha:////4HrGjwJwQOhLi1aSCoUudfSEbKbqFLBYMyWfXCuEw/bTAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcyyK/tQCi8Qs1jgAAAA==[0mGitHub API Usage: Current quota has 53 remaining (0 under budget). Next quota of 60 in 59 min
+Examining [8mha:////4Eo6VuEFQZUy+gzFeYDxKSquPjckLaQO0MQWPUaifsySAAAAnx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgL2FQyigpKSi20tdPzyzJKE0C6soFMVNSc/P1c/LTi0tSiwDwz22apwAAAA==[0mgitdemo/logster
+
+  Checking branches...
+[8mha:////4EDQzpVkksQ1gk/x+lGIHrYIaPnM74ms4waUZuzavEYhAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcyyL/hwBYzXpTjgAAAA==[0mGitHub API Usage: Current quota has 52 remaining (1 over budget). Next quota of 60 in 59 min. Sleeping for 5 min 18 sec.
+[8mha:////4LIirhoVlZk6CJyfwjL3ELIvjbN/t+DzuqzINsY0CSQ2AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy1J+JgAaJ0+fjgAAAA==[0mGitHub API Usage: Still sleeping, now only 2 min 18 sec remaining.
+[8mha:////4DpM6+QAYlQs4m626amnxwHaMh4MBTCX77W8dEEwdrhnAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy3LthwAQoSBUjgAAAA==[0mGitHub API Usage: Current quota has 52 remaining (2 under budget). Next quota of 60 in 54 min
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4J9XRXP+RkmNC6RXhAxoGXtvYy++pmYqxobV77Nx1kd+AAAAqB+LCAAAAAAAAP9djLsNwkAQBRcjXAAhogZvRgByRAKSRUIFB17dGe6nvTUybdAGJBRBOfSALWe85E0y8/rCLDEsTVun4Itz8ClYKnb3SGwbfz0EoVX5fJeP+Mkg20NuyWsxFUxbtgLz6qJuCq3yGo/CjdebjmHxl9uOP8Rg3CQD6GIPuUBhRGJaI+pGTHvqLTdgTS6gDToJMQoToVMD/wBEGah2swAAAA==[0mmaster
+[8mha:////4IaCQ/8m1lO3H5FcSxp7I42EgbDxluo8la8Qzd8LfpN1AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy3JPSQAb0o2wjgAAAA==[0mGitHub API Usage: Current quota has 51 remaining (1 under budget). Next quota of 60 in 54 min
+
+  Getting remote pull requests...
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+[8mha:////4PVE88Llvy273skMA2hoiY3jDNBAfDiJmiryCCTcaCw6AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy3KfnQC2hSwbjgAAAA==[0mGitHub API Usage: Current quota has 48 remaining (2 over budget). Next quota of 60 in 54 min. Sleeping for 6 min 0 sec.
+[8mha:////4C6dzzLwp5M5X4hB47uQTsVX9DgNlVDX0NnnIKaomTnYAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcyyruWwDF/3d4jgAAAA==[0mGitHub API Usage: Still sleeping, now only 3 min 0 sec remaining.
+[8mha:////4FPXGLPn52qyYjJHtZzlwdl5YXzz4D89JPRlOhhRO3DRAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy5pTPwEKFHwMjgAAAA==[0mGitHub API Usage: The quota may have been refreshed earlier than expected, rechecking...
+[8mha:////4KYLYEcZS7yEzoJtiKfGaReUEwImPXIijINntcSxgiDxAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy5ob3ADp9zsnjgAAAA==[0mGitHub API Usage: Current quota has 48 remaining (2 under budget). Next quota of 60 in 48 min
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+  0 pull requests were processed
+
+Finished examining gitdemo/logster
+
+[8mha:////4PrLEa7lTuDPf5zbH2/bsfzXbesDluai5FsLX5TXs/HQAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy5obPABKYl+5jgAAAA==[0mGitHub API Usage: Current quota has 48 remaining (2 under budget). Next quota of 60 in 48 min
+Proposing snapfinder
+[8mha:////4DLLZo2AnHyRG+HpJV7kQnCm/FWgw8wkeOPusAYjsMF5AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy5qb8gDVEvokjgAAAA==[0mGitHub API Usage: Current quota has 59 remaining (6 under budget). Next quota of 60 in 59 min
+Examining [8mha:////4HYT7spJT7Q3Zbp/PMZsaHjzORQoI3EK0rH1lNqQRYTMAAAAoh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQKmFQzSgpKSi20tdPzyzJKE0C6soFMVNSc/P1i/MSC9Iy81JSiwAnbLnkqgAAAA==[0mgitdemo/snapfinder
+
+  Checking branches...
+[8mha:////4Az5dxm7CMzFcSOa8NhpEXp81/oWhgHZCfT8npg8o2pBAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy5pboQCY6d6ZjgAAAA==[0mGitHub API Usage: Current quota has 58 remaining (5 under budget). Next quota of 60 in 59 min
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4LbvEhZmLQJ3SJnUclcDYJ9niCOXZhlaGG05BGQZlJ8PAAAArB+LCAAAAAAAAP9djLENwjAQRY8gMgAlYoZYNBSgVDQgRTRMYMjhGJyzdb6gsAZrQMMQjMMOJErHb/5r3nt9YRIZ5lVTRk/ZyVP0DrPtPSA7S9e9F1zmz3f+CJ8Ekh2kDslIVcC4YScwLS76ppXTZNRB2JJZtwyzv9xm+D4Gw0YJQBs6SAUWlUiIK6WMlao5dlbdY4m1V5F0OFsqkZUwoqp1FOQfkZSPVrYAAAA=[0mmaster
+[8mha:////4KCgbDll/Wdkv/DAujfTydN7i/alRA0XNvFUkJ68rogNAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy5rb1QAW1RNcjgAAAA==[0mGitHub API Usage: Current quota has 57 remaining (4 under budget). Next quota of 60 in 59 min
+
+  Getting remote pull requests...
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+[8mha:////4M0hzxxTiSXZFIGe//N79JcXjOOJ0gH93ozei1pV1FgnAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy5r7egBptX4jjgAAAA==[0mGitHub API Usage: Current quota has 54 remaining (1 under budget). Next quota of 60 in 59 min
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+  0 pull requests were processed
+
+Finished examining gitdemo/snapfinder
+
+[8mha:////4GwhYzxWP3m9WGo1ZoGMy1dfqGtJkc6fa4i47rSbYARVAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy5r7+gD/hXlUjgAAAA==[0mGitHub API Usage: Current quota has 54 remaining (1 under budget). Next quota of 60 in 59 min
+Proposing snapfinder-api
+[8mha:////4DNtMB+i6vNfnaX3s86E75qbcFWK/B85kIp50Xmle0aUAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy5oHXQCk+BuqjgAAAA==[0mGitHub API Usage: Current quota has 53 remaining (0 under budget). Next quota of 60 in 59 min
+Examining [8mha:////4IJjluIsANYS6EYXcIbxu09oV/4RxVvtfwSI2hyjqn3AAAAAph+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQK2HQzCgpKSi20tdPzyzJKE0C6soFMVNSc/P1i/MSC9Iy81JSi3QTCzIBjrk1zK4AAAA=[0mgitdemo/snapfinder-api
+
+  Checking branches...
+[8mha:////4GcqqS6z7q8a0cotZQt61L4Zvp5LgTDXcGV9gW0cONErAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy5qHJwBZ6dIrjgAAAA==[0mGitHub API Usage: Current quota has 52 remaining (1 over budget). Next quota of 60 in 59 min. Sleeping for 5 min 21 sec.
+[8mha:////4B7URfQmqNe17J8dYp8b4nYdsEQQYVCML1NYKWS5rTbJAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy/oFHwDakfTojgAAAA==[0mGitHub API Usage: Still sleeping, now only 2 min 21 sec remaining.
+[8mha:////4KKipRWkEfQeEUjM/mo/cnZ8jUyU+L9ampe68EEPhwI4AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy8aTLQBrehsdjgAAAA==[0mGitHub API Usage: Current quota has 52 remaining (2 under budget). Next quota of 60 in 54 min
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4N8JvVj4CpzRd+8OV4cmTlcq0s0dsw1n4KUkouWbi+HdAAAArx+LCAAAAAAAAP9djLENwjAQRY8gMgAlYgXiCgpQKhqQIhomMORwDM7ZOl9QWIM1oGEIxmEHEtHxm/+a954fGEWGadWU0VN29BS9w2xzC8jO0mXnBRf545XfwzuBZAupQzJSFTBs2AmMi7O+auU0GbUXtmRWLcPkL7f+fR+D3wYJQBs6SAXmlUiIS6WMlao5dFbdY4m1V5F0OFkqkWc6WCWMqGodBfkL18LSu7oAAAA=[0mmaster
+[8mha:////4FWNFg/9mixcucK0Cz4Itg/CUmH4h2xnh8raHf3jt7/+AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy8bnvwB8L6GhjgAAAA==[0mGitHub API Usage: Current quota has 47 remaining (5 under budget). Next quota of 60 in 42 min
+
+  Getting remote pull requests...
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+[8mha:////4EiqqGQeqEPWOHz0uyqaGrqJbALgtEmS1nvRxHz+a7F+AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy8bXTwGFbRyAjgAAAA==[0mGitHub API Usage: Current quota has 44 remaining (2 under budget). Next quota of 60 in 42 min
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+  0 pull requests were processed
+
+Finished examining gitdemo/snapfinder-api
+
+[8mha:////4LPP8qRVmuZ0QM1qI/yaO7TYueknPZkKbr3WIswftPl5AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy8bXzwA/PBUZjgAAAA==[0mGitHub API Usage: Current quota has 44 remaining (2 under budget). Next quota of 60 in 42 min
+Proposing snapfinder-lib
+[8mha:////4KvTlw5rYL9mGMKZ9kRNn/RlBm5tJwXXV7hztrFLGehwAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy8a34gAzWfWFjgAAAA==[0mGitHub API Usage: Current quota has 43 remaining (1 under budget). Next quota of 60 in 42 min
+Examining [8mha:////4M/gAku0G//gOD7wR3zjrJEs88l1yLE2nk4fILkzH0/VAAAAph+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQK2HQzCgpKSi20tdPzyzJKE0C6soFMVNSc/P1i/MSC9Iy81JSi3RzMpMATVo/yK4AAAA=[0mgitdemo/snapfinder-lib
+
+  Checking branches...
+[8mha:////4Lsa+DwBLI0Lfw0kFHNpxLdQsoAMNPxhfoJLGS9KXyDgAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy8Z3/gA202jLjgAAAA==[0mGitHub API Usage: Current quota has 42 remaining (0 under budget). Next quota of 60 in 42 min
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4Ef41lW1Hj4aIC0+W2alyCXb/N6/XSMnErYKXlgJ1girAAAArx+LCAAAAAAAAP9djLENwjAQRY8gMgAlYgXiCgpQKhqQIhomcMhhGxzbOl9QWIM1oGEIxmEHEqXjN/81772+MIkEc91U0bvs5F30FrPdPSBZ464Hz7jKn+/8ET4JJHtILTrFuoBxQ5ZhWlzkTQornRJHJuPUpiWY/eW2w/cxGDZKANrQQcqw1MwhroVQhnVTdlbdY4W1F9HJcDauQlpYUwomRFHLyEg/VMzxaLoAAAA=[0mmaster
+[8mha:////4Gt7ATv0kSMr5Z6VUG9BC8/9rHwddDZguFJkD+O22UqbAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy8b3jQDADa+ujgAAAA==[0mGitHub API Usage: Current quota has 41 remaining (1 over budget). Next quota of 60 in 42 min. Sleeping for 5 min 9 sec.
+[8mha:////4IDEf80umN4vSDf8GbCzsXnUGWzgdMbyY3gXDSP6G/F2AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy5Z1iwAdwGHjjgAAAA==[0mGitHub API Usage: Still sleeping, now only 2 min 9 sec remaining.
+[8mha:////4KQqdJu+isiRCD/sBoCsNIDfrHV8Hs20pOfWZVjVndf+AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy7ZVagBOllxujgAAAA==[0mGitHub API Usage: Current quota has 41 remaining (2 under budget). Next quota of 60 in 37 min
+
+  Getting remote pull requests...
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+[8mha:////4Czj98iMF6DaDG85CY/gxvKqBqJcPqoiv+gideajv1f7AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy7btPQCksDOnjgAAAA==[0mGitHub API Usage: Current quota has 49 remaining (3 under budget). Next quota of 60 in 49 min
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+  0 pull requests were processed
+
+Finished examining gitdemo/snapfinder-lib
+
+[8mha:////4Czj98iMF6DaDG85CY/gxvKqBqJcPqoiv+gideajv1f7AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHQcy7btPQCksDOnjgAAAA==[0m4 repositories were processed
+[Mon Aug 21 17:43:57 IST 2017] Finished organization scan. Scan took 22 min
+Finished: SUCCESS

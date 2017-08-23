@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: gunan
+Build-Jdk: 1.8.0-google-v7
+Extension-Name: google-source-plugin
+Specification-Title: This plugin exposes a credential for use with the
+  Git plugin for authenticating with Google source code hosting as a s
+ ervice account.
+Implementation-Title: google-source-plugin
+Implementation-Version: 0.3
+Group-Id: org.jenkins-ci.plugins
+Short-Name: google-source-plugin
+Long-Name: Google Authenticated Source plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Google+Source+Plugin
+Plugin-Version: 0.3
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Dependencies: git:2.2.7;resolution:=optional,mercurial:1.49;res
+ olution:=optional,multiple-scms:0.3;resolution:=optional,google-metad
+ ata-plugin:0.2,google-oauth-plugin:0.3,git-client:1.10.2;resolution:=
+ optional
+Plugin-Developers: Matt Moore:mattmoor:
+
